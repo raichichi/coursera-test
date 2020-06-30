@@ -1,0 +1,34 @@
+
+
+body{
+	background-color: #0B0F17;
+	background-image: url("pixabay_images/snowy_background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat
+}
+
+.monospace {
+	font-family: "Lucinda Console", Courier, monospace;
+}
+
+h1, h2, p{
+	color: white;
+	font-family: "Lucinda Console", Courier, monospace;
+	font-weight: normal;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	font-weight: bold;
+}
+
+#main-nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: #d5ebed
+}
