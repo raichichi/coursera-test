@@ -7,9 +7,6 @@ body{
 	background-repeat: no-repeat
 }
 
-.monospace {
-	font-family: "Lucinda Console", Courier, monospace;
-}
 
 h1, h2, p{
 	color: white;
@@ -25,10 +22,27 @@ p{
 	font-weight: bold;
 }
 
+/* Mik's adventure journal */
+.journal-page {
+
+	/* div */
+	position: relative;
+
+	/* img tag */
+	width: 99%;
+	height: auto;
+	margin: auto;
+	padding: 0px;
+}
+
+.monospace {
+	font-family: "Lucinda Console", Courier, monospace;
+}
+
 #main-nav {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	width: 200px;
-	background-color: #d5ebed
+	background-color: #d5ebed;
 }
