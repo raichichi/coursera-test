@@ -1,11 +1,5 @@
 
 /* Applies the default snow background. */
-body{
-	background-color: #0B0F17;
-	background-image: url("pixabay_images/snowy_background.jpg");
-	background-size: cover;
-	background-repeat: no-repeat
-}
 
 h1, h2, p{
 	color: #3b210d;
