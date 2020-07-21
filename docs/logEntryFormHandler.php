@@ -1,0 +1,1 @@
+$testVar = $_POST[0]
