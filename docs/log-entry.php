@@ -25,7 +25,7 @@
 	
 
 
-	<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+	<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
 
 		<label for="lentry">Write your entry here:</label><br>
 		<input type="text" id="lentry" name="lentry"><br>
@@ -34,6 +34,8 @@
 		<br>
 		<input type="submit" name="submit" value="Hello?">
 	</form>
+
+	<?php echo "does php work?"; ?>
 
 
 
