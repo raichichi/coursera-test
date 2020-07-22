@@ -1,2 +1,0 @@
-This file contains a single column keeping track of the current number of adventure entries. 
-It starts at 1, and as each entry is added I append the new count to the end of the file. Thus, the current number of journal entries will be at the bottom.
